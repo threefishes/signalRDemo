@@ -1,2 +1,2 @@
-# singalRDemo
-use microsoft singalR
+# signalRDemo
+use microsoft signalR
